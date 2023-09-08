@@ -45,12 +45,12 @@ The **Favorite Post Feed** is a dedicated section of your application where user
 - **Backend Logic**: Implement the backend logic to retrieve and display posts that the user has marked as favorites. This typically involves querying the database for posts that match the user's preferences.
 - **User Experience**: Ensure that the Favorite Post Feed provides a pleasant and intuitive user experience. Users should be able to interact with the posts in this feed just like in the main feed.
 
+**Class Diagram** 
+/[Ankush pagal hai](https://github.com/Rihanaggg/SocialMedia/blob/main/class%20diagram.png)
 
-`					`**Class Diagram** 
 
-
-`			`**Use case Diagram**
-
+`**Use case Diagram**
+/[Ankush pagal hai](https://github.com/Rihanaggg/SocialMedia/blob/main/MicrosoftTeams-image.png)
 
 Documentation Created By
 

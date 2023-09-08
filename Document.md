@@ -46,11 +46,11 @@ The **Favorite Post Feed** is a dedicated section of your application where user
 - **User Experience**: Ensure that the Favorite Post Feed provides a pleasant and intuitive user experience. Users should be able to interact with the posts in this feed just like in the main feed.
 
 **Class Diagram** 
-/[Ankush pagal hai](https://github.com/Rihanaggg/SocialMedia/blob/main/class%20diagram.png)
+![Ankush pagal hai](https://github.com/Rihanaggg/SocialMedia/blob/main/class%20diagram.png)
 
 
 `**Use case Diagram**
-/[Ankush pagal hai](https://github.com/Rihanaggg/SocialMedia/blob/main/MicrosoftTeams-image.png)
+![Ankush pagal hai](https://github.com/Rihanaggg/SocialMedia/blob/main/MicrosoftTeams-image.png)
 
 Documentation Created By
 
